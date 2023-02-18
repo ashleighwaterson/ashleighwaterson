@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashleighwaterson
-- 👀 I’m interested in  Data Science
+- 👀 I’m an Analyst
 - 🌱 I’m currently learning javascript and python
 
 
